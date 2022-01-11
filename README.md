@@ -1,15 +1,11 @@
 <div>
   <h2>
-    App em Flutter - Perguntas e respostas.
+    Repositório do curso de Flutter da Cod3r.
   </h2>
 </div>
 
 <div>
   <h4>
-    Abaixo, anexo alguns prints e vídeo do App em funcionamento no Iphone 11.
+    Neste repositório, você encontrará exercícios e projetos do curso de Flutter da Cod3r.
   </h4>
-</div>
-
-<div>
-  
 </div>
